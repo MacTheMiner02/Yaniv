@@ -4,7 +4,6 @@ from deck import Deck
 from pile import Pile
 
 deck = Deck()
-#test
 player1 = Hand([])
 player2 = Hand([])
 player3 = Hand([])
